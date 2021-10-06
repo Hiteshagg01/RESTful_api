@@ -1,0 +1,16 @@
+{
+  "name": "restful_api",
+  "version": "1.0.0",
+  "description": "An RESTful API.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  }
+}
